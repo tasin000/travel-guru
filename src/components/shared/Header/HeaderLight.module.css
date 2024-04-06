@@ -1,0 +1,11 @@
+.color-white{
+    color: #fff;
+}
+
+.border-white{
+    border: 1px solid #fff;
+}
+
+.logo-white{
+    filter: brightness(0) invert(1);
+}

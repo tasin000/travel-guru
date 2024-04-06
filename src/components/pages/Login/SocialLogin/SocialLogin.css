@@ -1,0 +1,52 @@
+.social-login-container {
+  margin: 20px auto;
+  width: 70%;
+}
+
+.or-style {
+  display: flex;
+  align-items: center;
+  margin: 10px auto;
+  width: 100%;
+}
+
+.or-hr {
+  width: 50%;
+  height: 1px;
+  background-color: darkgray;
+}
+
+.or-style p {
+  margin: 0 5px;
+  font-weight: 600;
+}
+
+.social-btn-group {
+  margin: 0 auto;
+}
+
+.social-btn {
+  margin: 10px 0;
+  border: 1px solid #000;
+  border-radius: 30px;
+  width: 100%;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid darkgray;
+}
+
+.social-btn div {
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.social-btn img {
+  height: 31px;
+}
+
+.social-btn span {
+  font-weight: 600;
+  text-align: center;
+}

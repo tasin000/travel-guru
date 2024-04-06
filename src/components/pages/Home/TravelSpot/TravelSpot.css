@@ -1,0 +1,13 @@
+.travel-spot{
+    position: relative;
+}
+
+.travel-spot-border{
+    border: 3px solid #ffa500;
+}
+
+.travel-spot h2{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
